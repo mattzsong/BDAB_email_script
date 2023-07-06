@@ -1,0 +1,32 @@
+{
+    "breadcrumbs": [
+        {
+            "label": "Titles",
+            "signal_field_name": "person_titles",
+            "value": "data science manager",
+            "display_name": "data science manager"
+        },
+        {
+            "label": "Company Domains",
+            "signal_field_name": "q_organization_domains",
+            "value": [
+                "doordash.com"
+            ],
+            "display_name": "doordash.com"
+        }
+    ],
+    "partial_results_only": false,
+    "disable_eu_prospecting": false,
+    "partial_results_limit": 10000,
+    "pagination": {
+        "page": 1,
+        "per_page": 10,
+        "total_entries": 0,
+        "total_pages": 0
+    },
+    "contacts": [],
+    "people": [],
+    "model_ids": [],
+    "num_fetch_result": null,
+    "derived_params": {}
+}
