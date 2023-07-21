@@ -1,0 +1,170 @@
+,date,name,company,email,contactor,title
+0,07/20,Shishir Kashyap, novartis,shishir.kashyap@novartis.com,Matthew,Data Scientist
+1,07/20,Apurva Choudhary, novartis,apurva.choudhary@novartis.com,Matthew,Data Scientist
+2,07/20,Vanshika Bakolia, novartis,vanshika.bakolia@novartis.com,Matthew,Data Scientist
+3,07/20,Yash Maheshwari, novartis,yash.maheshwari@novartis.com,Matthew,Data Scientist
+4,07/20,Varun Gupta, novartis,varun.gupta@novartis.com,Matthew,Data Scientist
+5,07/20,Ming Zhang, novartis,ming.zhang@novartis.com,Matthew,Data Scientist
+6,07/20,Anuj Kharat, novartis,anuj.kharat@novartis.com,Matthew,Data Scientist
+7,07/20,Kushal Soni, novartis,kushal.soni@novartis.com,Matthew,Sr. Principal Clinical Data Scientist- Functional Manager
+8,07/20,Prasad Kundaram, novartis,prasad.kundaram@novartis.com,Matthew,Sr Lead Data Manager & Data Scientist in (DM)
+9,07/20,Conrad Kurowski,pfizer,conrad.kurowski@pfizer.com,Matthew,"Manager, Data Scientist"
+10,07/20,Boyd Gonnerman,pfizer,boyd.gonnerman@pfizer.com,Matthew,Manager/Data Scientist
+11,07/20,John Mitchell,pfizer,john.mitchell@pfizer.com,Matthew,Clinical Data Scientist (Manager)
+12,07/20,Vivian Tracy,pfizer,zhenlian.tracy@pfizer.com,Matthew,"Sr. Manager, Data Scientist"
+13,07/20,Taj Mohammed,pfizer,taj.mohammed@pfizer.com,Matthew,"Manager, Clinical Data Scientist"
+14,07/20,Vaibhav Soni,pfizer,vaibhav.soni@pfizer.com,Matthew,"Manager, Clinical Data Scientist"
+15,07/20,Kanhaiya Chauhan,pfizer,kanhaiya.chauhan@pfizer.com,Matthew,Manager - Clinical Data Scientist
+16,07/20,Nae Lee,pfizer,nae.lee@pfizer.com,Matthew,Data Scientist (Manager)
+17,07/20,Jianmi Luo,pfizer,jianmi.luo@pfizer.com,Matthew,"Business Analytics & Insights Data scientist, Manager"
+18,07/20,Jeff Meteyer,roche,jeff.meteyer@rochester.edu,Matthew,"Manager, Data Warehouse , Reporting & Analytics"
+19,07/20,Roman Kowal,roche,roman_kowal@urmc.rochester.edu,Matthew,Workforce Managment & Analytics Manager
+20,07/20,Jeffrey Meteyer,roche,jeff.meteyer@rochester.edu,Matthew,"Manager, Reporting and Analytics"
+21,07/20,Julie Civiletti,roche,julie_civiletti@urmc.rochester.edu,Matthew,Manager Payer Contracting Analytics
+22,07/20,Erica Sun,merck,erica.sun@merck.com,Matthew,Data Scientist
+23,07/20,Karena Yu,merck,karena.yu@merck.com,Matthew,Data Scientist
+24,07/20,Negin Asadzadehzanjani,merck,negin.asadzadehzanjani@merck.com,Matthew,Data Scientist
+25,07/20,Matthew Schneider,merck,matthew.schneider@merck.com,Matthew,Data Scientist
+26,07/20,Sarai Alvarez,merck,sarai.alvarez@merck.com,Matthew,Data Scientist
+27,07/20,Evan T,merck,evan.thompson@merck.com,Matthew,Data Scientist
+28,07/20,Cate M,merck,catherine.mann@merck.com,Matthew,Data Scientist
+29,07/20,Serdar Bozoglan,merck,serdar.bozoglan@merck.com,Matthew,Data Scientist
+30,07/20,Manoj Banjara,merck,manoj.banjara@merck.com,Matthew,Senior Data Scientist - Data Manager
+31,07/20,Dineen Parker,merck,dineen.parker@merck.com,Matthew,Data Scientist
+32,07/20,Kristen L, udemy,kristen.li@udemy.com,Matthew,Senior Data Scientist
+33,07/20,Vivek Sankar, udemy,vivek.sankar@udemy.com,Matthew,Principal Data Scientist
+34,07/20,Sidian L, udemy,sidian.liu@udemy.com,Matthew,Data Scientist
+35,07/20,Kathleen C, udemy,kathleen.coldren@udemy.com,Matthew,Sales Analytics Manager
+36,07/20,Sami B, udemy,sami.bouguezzi@udemy.com,Matthew,Senior Data Scientist
+37,07/20,Yutian Yang, udemy,yutian.yang@udemy.com,Matthew,Data Scientist
+38,07/20,Kerem Tuncel, udemy,kerem.tuncel@udemy.com,Matthew,Data Scientist
+39,07/20,Begum Arslan, udemy,begum.arslan@udemy.com,Matthew,Senior Data Scientist
+40,07/20,Lingyi  , udemy,lingyi.tan@udemy.com,Matthew,Staff Data Scientist
+41,07/20,Wenjing Chu,coursera,wchu@coursera.org,Matthew,Data scientist
+42,07/20,Nathan Levin,coursera,nlevin@coursera.org,Matthew,Data Scientist
+43,07/20,Hannah Cheng,coursera,hcheng@coursera.org,Matthew,Data Scientist
+44,07/20,Rihab Rebai,coursera,rrebai@coursera.org,Matthew,Data Scientist
+45,07/20,Shubham Bansode,coursera,sbansode@coursera.org,Matthew,Data Scientist
+46,07/20,Giang Nguyen,coursera,gnguyen@coursera.org,Matthew,Data Scientist
+47,07/20,Jordan Lau,coursera,jlau@coursera.org,Matthew,Data Scientist
+48,07/20,Mashrur Khan,coursera,mkhan@coursera.org,Matthew,Data Scientist
+49,07/20,Jessica Nguyen,coursera,linguyen@coursera.org,Matthew,Data Scientist
+50,07/20,Xiaonan Sun,coursera,xsun@coursera.org,Matthew,Data Scientist
+51,07/20,Itelina  ,khan academy,itelina@khanacademy.org,Matthew,"Group Manager, Analytics"
+52,07/20,Carlos V,khan academy,carlosvalcarcel@khanacademy.org,Matthew,"Senior Data Scientist, Marketing"
+53,07/20,Pratap Vardhan,khan academy,pratap@khanacademy.org,Matthew,Principal Data Scientist
+54,07/20,Maya Miller-Vedam,khan academy,mayavedam@khanacademy.org,Matthew,Senior Data Scientist
+55,07/20,Christine Martinez,skillshare,christine.martinez@skillshare.com,Matthew,Data Scientist
+56,07/20,Kajal Bhunjan,skillshare,kajal@skillshare.com,Matthew,Data Scientist
+57,07/20,Matt Carhart,skillshare,matt.carhart@skillshare.com,Matthew,Sales & Marketing Operations Manager
+58,07/20,Christine Gal,skillshare,christine.gal@skillshare.com,Matthew,Data Scientist
+59,07/20,Udbhav J,doordash,udbhav.joshi@doordash.com,Matthew,Data Scientist
+60,07/20,Namrata D,doordash,namrata.date@doordash.com,Matthew,Data Scientist
+61,07/20,Katie X,doordash,katie.xia@doordash.com,Matthew,Data Scientist
+62,07/20,Daniel Lo,doordash,danny.lo@doordash.com,Matthew,Data Scientist
+63,07/20,Libo He,doordash,libo.he@doordash.com,Matthew,Data Scientist
+64,07/20,Paloma Pradere,doordash,paloma.pradere@doordash.com,Matthew,Data Scientist
+65,07/20,Peter J,doordash,peter.johnson@doordash.com,Matthew,Data Scientist
+66,07/20,Bernard C,doordash,bernard.chen@doordash.com,Matthew,Data Scientist
+67,07/20,Alexander G,doordash,gavriel@doordash.com,Matthew,Data Scientist
+68,07/20,Christina  ,doordash,christinaz@doordash.com,Matthew,"Manager, Sales Analytics"
+69,07/20,Swamynathan Umamaheswaran,grubhub,sumamaheswaran@grubhub.com,Matthew,Data Scientist II
+70,07/20,Florian Jaeger,grubhub,fjaeger@grubhub.com,Matthew,Data Scientist
+71,07/20,Anil S,grubhub,asimon@grubhub.com,Matthew,Data Scientist
+72,07/20,Sneha S,grubhub,ssaxena@grubhub.com,Matthew,Senior Data Scientist
+73,07/20,Atharv Y,grubhub,ayeolekar@grubhub.com,Matthew,Data Scientist
+74,07/20,Melody Fong,grubhub,mfong@grubhub.com,Matthew,Data Scientist
+75,07/20,Yunzheng Zhao,grubhub,yzhao@grubhub.com,Matthew,Data Scientist
+76,07/20,Hamed N,grubhub,hniakan@grubhub.com,Matthew,Data Scientist II
+77,07/20,Aileen C,grubhub,achau@grubhub.com,Matthew,Data Scientist
+78,07/20,Jordan Reagen,grubhub,jordanr@grubhub.com,Matthew,Senior Data Scientist
+79,07/20,Adam Shafi,deliveroo,adam.shafi@deliveroo.co.uk,Matthew,Data Scientist
+80,07/20,Adiya Belgibayeva,deliveroo,adiya.belgibayeva@deliveroo.co.uk,Matthew,Data Scientist
+81,07/20,Mert Pinar,deliveroo,mert.pinar@deliveroo.co.uk,Matthew,Data Scientist
+82,07/20,Giulia Gandolfo,deliveroo,giulia.gandolfo@deliveroo.co.uk,Matthew,Data Scientist
+83,07/20,Justinas Cirtautas,deliveroo,justinas.cirtautas@deliveroo.co.uk,Matthew,Data Scientist
+84,07/20,Trisha Krishnan,deliveroo,trisha.krishnan@deliveroo.co.uk,Matthew,Data Scientist
+85,07/20,Peter Hontaru,deliveroo,peter.hontaru@deliveroo.co.uk,Matthew,Data Scientist
+86,07/20,Giorgi Todua,deliveroo,giorgi.todua@deliveroo.co.uk,Matthew,Data Scientist
+87,07/20,Annie Baldwin,deliveroo,annie.baldwin@deliveroo.co.uk,Matthew,Data Scientist
+88,07/20,Marshall Postle-Floyd,deliveroo,marshall.postle-floyd@deliveroo.co.uk,Matthew,Data Scientist
+89,07/20,Katie Cason, nike,katie.cason@nike.com,Matthew,Senior Data Scientist
+90,07/20,Bijoy Chowdhury, nike,bijoy.chowdhury@nike.com,Matthew,Data Scientist
+91,07/20,Boyang Wei, nike,boyang.wei@nike.com,Matthew,Data Scientist
+92,07/20,Jacqueline Feild, nike,jacqueline.feild@nike.com,Matthew,Data Scientist
+93,07/20,Lucas Newman, nike,lucas.newman@nike.com,Matthew,Data Science Manager II / Lead Data Scientist
+94,07/20,Burt Chen, nike,burt.chen@nike.com,Matthew,Data Scientist
+95,07/20,Kevin S, nike,kevin.sattakun@nike.com,Matthew,Data Scientist
+96,07/20,Balaji Kesavan, nike,balaji.kesavan@nike.com,Matthew,Advanced Analytics Manager / Lead Data Scientist
+97,07/20,Matt Williams, nike,matt.williams@nike.com,Matthew,Data Scientist
+98,07/20,Cristin  ,patagonia,cristin.obrien@patagonia.com,Matthew,Regional Sales Manager
+99,07/20,Ibamz Chebu,patagonia,ibamz.chebu@patagonia.com,Matthew,Sales Manager
+100,07/20,Hamlet Ham,patagonia,hamlet.ham@patagonia.com,Matthew,Sales Manager
+101,07/20,Dan S,patagonia,dan.sundaram@patagonia.com,Matthew,"Manager, Customer Insights & Analytics"
+102,07/20,Terri C,patagonia,terri.costello@patagonia.com,Matthew,Retail Analytics Manager
+103,07/20,Julian G,patagonia,julian.gottlieb@patagonia.com,Matthew,Digital Analytics Manager
+104,07/20,Shahar  ,patagonia,shahar.gur@patagonia.com,Matthew,Manager of People Analytics
+105,07/20,Kendal Eicher,patagonia,kendal.eicher@patagonia.com,Matthew,"Research Manager, Insights & Analytics"
+106,07/20,Peter Z,the north face,peter_zavertnik@vfc.com,Matthew,Sales Manager
+107,07/20,Zach Gilseth,the north face,zach_gilseth@thenorthface.com,Matthew,"Manager, Consumer Journey Activation & Analytics"
+108,07/20,Jessica Nell,the north face,jessica_nell@thenorthface.com,Matthew,Consumer Analytics Manager
+109,07/20,Tammy Bierk,the north face,tammy_bierk@vfc.com,Matthew,Sales Manager
+110,07/20,Kristin Etter,the north face,kristin_etter@vfc.com,Matthew,Sales Manager
+111,07/20,Stan Kosmider,the north face,stan_kosmider@vfc.com,Matthew,Sales Manager
+112,07/20,Justin  ,the north face,justin_stein@vfc.com,Matthew,Digital & Marketing Analytics Manager
+113,07/20,Matthew Dobrowolski,the north face,matthew_dobrowolski@vfc.com,Matthew,Sales Manager
+114,07/20,Trevor Pack,the north face,trevor_pack@vfc.com,Matthew,Sales Manager
+115,07/20,Martin Ghosh,arc'teryx,martin.ghosh@arcteryx.com,Matthew,"Senior Manager, Digital Insights & Analytics"
+116,07/20,Annie  ,arc'teryx,annie.deblois@arcteryx.com,Matthew,Ecommerce Sales Planning Manager
+117,07/20,Robert Teufel,arc'teryx,robert.teufel@arcteryx.com,Matthew,Senior Area Sales Manager
+118,07/20,Josh Banks,arc'teryx,josh.banks@arcteryx.com,Matthew,"Manager, Strategic Sales (B2X)"
+119,07/20,Amy Chen,arc'teryx,amy.chen@arcteryx.com,Matthew,"Project Manager, Data & Analytics"
+120,07/20,Heather Tom,arc'teryx,heather.tom@arcteryx.com,Matthew,"Manager, Retail Analytics"
+121,07/20,Kyle Goertzen,arc'teryx,kyle.goertzen@arcteryx.com,Matthew,"Senior Manager, Strategic Sales"
+122,07/20,Tony Francione,arc'teryx,tony.francione@arcteryx.com,Matthew,Wholesale Territory Sales Manager
+123,07/20,Alex Hodges,arc'teryx,alex.hodges@arcteryx.com,Matthew,Global Sales Manager - LEAF
+124,07/20,Sudarshan R, activision blizzard,sudarshan.venkatram@activision.com,Matthew,"Lead Data Scientist/Senior Manager, Data Science"
+125,07/20,Yu Z, activision blizzard,yuzhao@blizzard.com,Matthew,Lead Data Scientist
+126,07/20,Susan L, activision blizzard,susan.li@activisionblizzard.com,Matthew,Senior Data Scientist
+127,07/20,Chirasree C, activision blizzard,chirasree.chatterjee@activisionblizzard.com,Matthew,Sr. Data Scientist
+128,07/20,Arjun P, activision blizzard,arjun.poddar@activisionblizzard.com,Matthew,Sr. Staff Data Scientist
+129,07/20,Ru Chen, activision blizzard,ru.chen@activisionblizzard.com,Matthew,Lead Data Scientist
+130,07/20,Jacob R, activision blizzard,jacob.gomez@activision.com,Matthew,Data Scientist
+131,07/20,Najmeh T,electronic arts,ntavassoli@ea.com,Matthew,Data Scientist
+132,07/20,Eugene Borissov,electronic arts,eborissov@ea.com,Matthew,Data Scientist
+133,07/20,Eric Legare,electronic arts,edlegare@ea.com,Matthew,Data Scientist
+134,07/20,Moe S,electronic arts,mshams@ea.com,Matthew,Data Scientist
+135,07/20,Ian Noriega,electronic arts,inoriega@ea.com,Matthew,Data Scientist
+136,07/20,Joana Calado,electronic arts,jcalado@ea.com,Matthew,Data Scientist
+137,07/20,Haolin L,electronic arts,hlu@ea.com,Matthew,Data Scientist
+138,07/20,Subhajit Chatterjee,electronic arts,suchatterjee@ea.com,Matthew,Data Scientist
+139,07/20,Mina Yousefi,electronic arts,myousefi@ea.com,Matthew,Data Scientist
+140,07/20,Junya Zhao,electronic arts,jzhao@ea.com,Matthew,Data Scientist
+141,07/20,Vladimir Katchadourian,ubisoft,vladimir.katchadourian@ubisoft.com,Matthew,Data Scientist
+142,07/20,Alban Derepas,ubisoft,alban.derepas@ubisoft.com,Matthew,Data Scientist
+143,07/20,Mohamed Belhadj,ubisoft,mohamed.belhadj@ubisoft.com,Matthew,Data Scientist
+144,07/20,Julien Larue,ubisoft,julien.larue@ubisoft.com,Matthew,Data Scientist
+145,07/20,Leo Perard,ubisoft,leo.perard@ubisoft.com,Matthew,Data Scientist
+146,07/20,Amira Ayadi,ubisoft,amira.ayadi@ubisoft.com,Matthew,Data Scientist
+147,07/20,Victor Safar,ubisoft,victor.safar@ubisoft.com,Matthew,Data Scientist
+148,07/20,Perrine Chapotot,ubisoft,perrine.chapotot@ubisoft.com,Matthew,Data scientist
+149,07/20,Eliot Moll,ubisoft,eliot.moll@ubisoft.com,Matthew,Data Scientist
+150,07/20,Camille Souvigny,ubisoft,camille.souvigny@ubisoft.com,Matthew,Data Scientist
+151,07/20,Yunchen Yang,take-two interactive,yunchen.yang@take2games.com,Matthew,Data Scientist
+152,07/20,Porsha Johnson,take-two interactive,porsha.johnson@take2games.com,Matthew,"Product Manager, Marketing Analytics"
+153,07/20,Tyler Stone,take-two interactive,tyler.stone@take2games.com,Matthew,"Senior Manager, Data Strategy & Analytics"
+154,07/20,Sascha Niederste-Hollenberg,take-two interactive,sascha.hollenberg@take2.de,Matthew,Sales Manager
+155,07/20,Sean Brodner,take-two interactive,sean.brodner@take2games.com,Matthew,"Sr Manager, Sales Planning and Analytics"
+156,07/20,Gregory Javens,take-two interactive,gregory.javens@take2games.com,Matthew,Senior Data Scientist
+157,07/20,Joyce  ,take-two interactive,joyce.chao@take2games.com,Matthew,"Senior Product Manager, Analytics"
+158,07/20,Ingrid Shao,take-two interactive,ingrid.shao@take2games.com,Matthew,Sr. Data Scientist & Analyst
+159,07/20,Hari Renganathan,take-two interactive,hari.renganathan@take2games.com,Matthew,Associate Data Scientist
+160,07/20,Shea K,take-two interactive,shea.kelly@take2games.com,Matthew,Sr. Manager People Analytics
+161,07/20,Joy A,nintendo,joy.ashizawa@noa.nintendo.com,Matthew,Sales Operations Manager
+162,07/20,Kim M,nintendo,kim.miller@nintendo.com,Matthew,"Manager, Sales Administration"
+163,07/20,Taylor N,nintendo,taylne01@noa.nintendo.com,Matthew,Data Scientist at Nintendo
+164,07/20,Andrew H,nintendo,andrhu07@noa.nintendo.com,Matthew,Data and Applied Scientist
+165,07/20,Jonathan B,nintendo,jonathan.berke@nintendo.com,Matthew,"Manager, Digital Business Analytics & PDR"
+166,07/20,Jorge Rainha,nintendo,jorge.rainha@nintendo.pt,Matthew,Manager Sales
+167,07/20,Ping Huang,nintendo,ping@nintendo.com,Matthew,"Manager, Sales Planning & Analysis"
+168,07/20,William Foreman,nintendo,william.foreman@nintendo.com,Matthew,Sales Manager
